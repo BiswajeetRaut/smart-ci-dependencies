@@ -1,5 +1,7 @@
 {
-    "service-b": ["libs/utils"],
-    "libs/logger": [],
-    "libs/utils": []
-  }
+  "service-b": [
+    "libs/utils"
+  ],
+  "libs/logger": [],
+  "libs/utils": []
+}
